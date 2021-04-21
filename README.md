@@ -6,7 +6,7 @@ This repository contains different kind of patterns commonly found in interview 
 2. Two pointers 
 3. Merging intervals
 4. Cyclic sort
-5 .Fast and slow pointers
+5. Fast and slow pointers
 6. Bread first search
 7. Depth first search
 8 .Binary search modified
