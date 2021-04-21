@@ -14,6 +14,6 @@ This repository contains different kind of patterns commonly found in interview 
 10. Top K elements
 11. k way merge
 12. SUbsets
-13 .Dynamic programming
+13. Dynamic programming
 14. Bitwise xor
 15. Topological sort.
